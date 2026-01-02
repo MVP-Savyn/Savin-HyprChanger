@@ -1,0 +1,38 @@
+{
+"version": "1.0",
+
+"active_preset": null,
+
+"autosave": false,
+
+"paths": {
+"root": "~/.dotpresets",
+"presets": "~/.dotpresets/presets",
+"active": "~/.dotpresets/active",
+"backups": "~/.dotpresets/backups",
+"clear": "~/.dotpresets/clear"
+},
+
+"integrity": {
+"active_hashes": {},
+"preset_hashes": {}
+},
+
+"history": {
+"recent": {
+"last_switch": null,
+"last_restore": null,
+"last_clear": null,
+"last_create": null
+},
+
+"previous_state": {
+"active_preset": null,
+"timestamp": null
+},
+
+"log": [],
+
+"errors": []
+}
+}
